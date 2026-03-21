@@ -1,2 +1,2 @@
 # AboutMe
-Know more about Nikhil Tathe
+Know more about Nikhil Tathe.
