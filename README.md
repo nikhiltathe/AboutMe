@@ -17,7 +17,7 @@ Enable **GitHub Pages** in your repo settings (Settings → Pages → Source: `m
 - **Contact section** with email, phone, and LinkedIn links
 - **Smooth scroll** navigation and scroll-triggered fade-in animations
 - **Mobile-friendly** with hamburger menu and collapsible sidebar
-- **Resume download** button linking directly to the PDF in the `Resume/` folder
+- **Resume download** button linking directly to `Resume/Nikhil_Tathe.pdf`
 
 ## Resume Updates
 
