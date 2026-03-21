@@ -452,6 +452,19 @@ a {
   background: var(--accent);
 }
 
+.timeline-link {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px dashed var(--accent);
+  transition: var(--transition);
+}
+
+.timeline-link:hover {
+  color: var(--accent-hover);
+  border-bottom-style: solid;
+}
+
 /* ===== Education ===== */
 .education-grid {
   display: grid;
