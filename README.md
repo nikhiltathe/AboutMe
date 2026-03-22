@@ -10,7 +10,7 @@ Enable **GitHub Pages** in your repo settings (Settings → Pages → Source: `m
 ## Features
 
 - **Responsive layout** with fixed top bar and left sidebar navigation
-- **Interactive work experience timeline** spanning 15+ years across 4 companies
+- **Interactive work experience timeline** spanning 16+ years across 4 companies
 - **Skill tags** organized by category with hover effects
 - **Education cards** with CGPA/percentage badges
 - **Awards & certificates** section with year badges
